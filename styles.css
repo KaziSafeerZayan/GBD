@@ -1,0 +1,31 @@
+body {
+    font-family: 'DynaPuff', cursive;
+    background-color: #F7ECDE;
+
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.mainIntro {
+    text-align: center;
+}
+
+a {
+    color: #54BAB9;
+}
+
+h2 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.ourIntention {
+    text-align: center;
+}
+
+.backToHomePage {
+    text-align: center;
+}
